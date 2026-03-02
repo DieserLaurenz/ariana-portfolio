@@ -11,7 +11,10 @@
       "Bash(npm run build:*)",
       "Bash(npx wrangler pages project create:*)",
       "Bash(CLOUDFLARE_ACCOUNT_ID=ca9a2d26d24da5fafaf069d6aa9b4f54 npx wrangler pages project create:*)",
-      "Bash(CLOUDFLARE_ACCOUNT_ID=ca9a2d26d24da5fafaf069d6aa9b4f54 npx wrangler pages deploy:*)"
+      "Bash(CLOUDFLARE_ACCOUNT_ID=ca9a2d26d24da5fafaf069d6aa9b4f54 npx wrangler pages deploy:*)",
+      "Bash(CLOUDFLARE_ACCOUNT_ID=ca9a2d26d24da5fafaf069d6aa9b4f54 npx wrangler pages project list:*)",
+      "Bash(gh secret set:*)",
+      "Bash(npx wrangler whoami:*)"
     ]
   }
 }
